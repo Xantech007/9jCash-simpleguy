@@ -2,13 +2,13 @@
 // Initialize Firebase and export _9jaCash global for all pages
 
 const firebaseConfig = {
-  apiKey: "AIzaSyC9-om8MiKMMz6cz-Xwkqn3hcFmGv78c2Y",
-  authDomain: "jacash-degreat.firebaseapp.com",
-  projectId: "jacash-degreat",
-  storageBucket: "jacash-degreat.firebasestorage.app",
-  messagingSenderId: "85156349854",
-  appId: "1:85156349854:web:fb656fe3bb22b7fa6a788f",
-  measurementId: "G-MN897591KN"
+  apiKey: "AIzaSyAxN8hKsSPE7rkiDVPD2_IeT2-gxS-cdbk",
+  authDomain: "jacash-simpleguy.firebaseapp.com",
+  projectId: "jacash-simpleguy",
+  storageBucket: "jacash-simpleguy.firebasestorage.app",
+  messagingSenderId: "677801661772",
+  appId: "1:677801661772:web:5d188947f08fe7c7c7abe9",
+  measurementId: "G-96MW9Y7Z6W"
 };
 
 
